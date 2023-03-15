@@ -1,18 +1,13 @@
-import 'package:equatable/equatable.dart';
-
-class Failure extends Equatable {
+class Failure {
   final String message;
 
-  const Failure(this.message);
-
-  @override
-  List<Object?> get props => [message];
+  Failure(this.message);
 }
 
 class ServerFailure extends Failure {
-  const ServerFailure(super.message);
+  ServerFailure(super.message);
 }
 
 class NoConnectionFailure extends Failure {
-  const NoConnectionFailure(super.message);
+  NoConnectionFailure(super.message);
 }
