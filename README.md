@@ -123,7 +123,7 @@ core/
     |- keys.dart
   |- theme/
     |- theme.dart
-    |- responsive.dart
+    |- font.dart
     |- text.dart
     |- colors.dart
 ```
@@ -184,12 +184,9 @@ This directory contains all the ui of your application. Each screen is located i
 ui/
 |- login/
   |- layouts/
-    |- desktop/
-      |- desktop.layout.dart
-    |- phone/
-      |- phone.layout.dart
-    |- tablet/
-      |- tablet.layout.dart
+    |- desktop.layout.dart
+    |- phone.layout.dart
+    |- tablet.layout.dart
   |- login.page.dart
   |- widgets
 ```
