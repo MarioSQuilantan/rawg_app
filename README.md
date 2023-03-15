@@ -1,10 +1,10 @@
-[![CI](https://github.com/MarioSQuilantan/number_trivia_app/actions/workflows/main.yml/badge.svg)](https://github.com/MarioSQuilantan/number_trivia_app/actions/workflows/main.yml)
+<!-- CI tag label goes here -->
 # RAWG App
 
-A video game project created in flutter using BLoC. Number Trivia supports Android and iOS devices:
+A video game project created in flutter using BLoC. This project supports Android and iOS devices:
 
-* For Android: [playStore](https://play.google.com/store/)
-* For iOS: [AppStore](https://apps.apple.com/mx/app/apple-store/)
+* For Android: [playStore](https://play.google.com/store/) (coming soon)
+* For iOS: [AppStore](https://apps.apple.com/mx/app/apple-store/) (coming soon)
 
 
 ## Getting Started
@@ -18,7 +18,7 @@ The project contains the implementation of BLoC V8 as a state management, and im
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/MarioSQuilantan/number_trivia_app.git 
+https://github.com/MarioSQuilantan/rawg_app.git 
 ```
 
 **Step 2:**
@@ -37,15 +37,13 @@ flutter pub get
 
 Run the project in an Android or iOS device.
 
-## Number Trivia Features:
+## Project Features:
 
-* work in progress
+* coming soon
 
 ### Up-Coming Features:
 
-* fetch a random number trivia
-* fetch a number trivia by number
-* store a number trivia data in local storage
+* coming soon
 
 ### Libraries & Tools Used
 
@@ -284,4 +282,4 @@ class MyApp extends StatelessWidget {
 
 ## Wiki
 
-Checkout [wiki](https://github.com/MarioSQuilantan/number_trivia_app/wiki) for more info
+Checkout [wiki](https://github.com/MarioSQuilantan/rawg_app/wiki) for more info (coming soon)
